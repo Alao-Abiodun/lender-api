@@ -1,0 +1,30 @@
+# Binaries and build outputs
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Build directories
+bin/
+build/
+dist/
+
+# Environment & config
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+
+# IDE/editor configs (optional, depends on team policy)
+.vscode/
+.idea/
+*.swp
